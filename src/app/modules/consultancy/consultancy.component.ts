@@ -8,3 +8,15 @@ import { Component } from '@angular/core';
 export class ConsultancyComponent {
 
 }
+
+// app-modules
+//     modules
+//         consultancy
+//         layout
+//         shared
+//             components
+//             service
+//             utils
+//             pages
+//             types
+//             directives
