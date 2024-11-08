@@ -8,3 +8,19 @@
     padding: .25rem .5rem;
     color: black;
 }
+
+.gradient-text {
+    font-weight: bold;
+    background-image: linear-gradient(to bottom, #f0334b, #ff874b);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    line-height: 1.2;
+    font-size: 3.5rem;
+}
+
+.caroseul-logos {
+    transform: translate3d(-67.2927rem, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+    will-change: transform;
+}
