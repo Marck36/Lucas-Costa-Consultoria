@@ -24,3 +24,21 @@
     transform-style: preserve-3d;
     will-change: transform;
 }
+
+.logo {
+    filter: invert(1) brightness(2);
+}
+
+.icon-medium {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+}
+
+.gradient-div {
+    background-image: linear-gradient(#fda3a733, #fff);
+    border-radius: 1em;
+}
