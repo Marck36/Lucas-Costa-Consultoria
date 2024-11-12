@@ -1,0 +1,49 @@
+
+Nicho  de negócio: Consultoria em Blockchain
+Propostas de valor: Auditorias independentes de personalizadas, Transparência e Monitoramento em tempo real
+Portifólio: Uisa, It Lean, Capreplus QGX
+
+---------------------------------------------------------
+Objetivo central do negócio:
+Ser reconhecida como a consultoria confiável em blockchain no mercado, 
+proporcionando soluções de auditoria personalizadas e transparentes que garantam a segurança, 
+conformidade e otimização das operações de nossos clientes, 
+impulsionando a confiança e a adoção da tecnologia blockchain no mercado.
+
+-------------------------------------------------------------
+Parcerias empresas:
+Uisa, It Lean, Capreplus QGX
+
+--------------------------------------------------------------
+Principais serviços com descrições:
+
+- Desenvolvimento de Soluções de Rastreabilidade na Cadeia de Suprimentos
+Criação de sistemas de rastreamento que integram toda a cadeia de suprimentos, 
+usando tecnologias como e blockchain para capturar e registrar dados em tempo real. 
+Esses sistemas oferecem visibilidade completa das movimentações, desde a origem até o destino final, 
+permitindo o monitoramento de estoques, localização de produtos e transparência para consumidores e parceiros
+
+- Automação e Otimização de Processos Logísticos
+Desenvolvimento de soluções de software para automatizar processos logísticos, 
+como gestão de pedidos, previsão de demanda e controle de inventário e processos 
+focados em aumentar a eficiência e reduzir erros operacionais.
+
+
+- Consultoria e Implementação de Plataformas de Integração para Supply Chain
+Serviço especializado em projetar e implementar plataformas que conectam sistemas de fornecedores, 
+transportadoras e distribuidores, permitindo troca de informações em tempo real e integração de dados 
+entre diferentes pontos da cadeia de suprimentos. 
+A consultoria inclui integração com ERPs e outros sistemas existentes, assegurando uma comunicação 
+fluida e sincronizada que facilita a coordenação e planejamento colaborativo.
+
+-----------------------------------------------------------------------------
+Experiência no mercado
+Com 12 anos de experiência sólida em desenvolvimento de software, incluindo os últimos 3 me especializando em blockchain, 
+construí uma trajetória passando nos setores financeiro, agrícola e de saúde. 
+Minha expertise abrange desde a criação de soluções de software inovadoras até a integração de sistemas com tecnologias blockchain, 
+proporcionando segurança, transparência e automação. 
+Atuo como consultor de software e integração blockchain, auxiliando empresas a transformar processos, 
+otimizar operações e garantir conformidade regulatória, sempre com foco em soluções escaláveis e 
+aderentes às necessidades específicas de cada setor.
+
+
