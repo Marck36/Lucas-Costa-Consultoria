@@ -19,6 +19,19 @@
     font-size: 3.5rem;
 }
 
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-103%);
+    }
+}
+
+.logos-slide {
+    animation: slide 8s linear infinite;
+}
+
 .caroseul-logos {
     transform: translate3d(-67.2927rem, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
     transform-style: preserve-3d;
