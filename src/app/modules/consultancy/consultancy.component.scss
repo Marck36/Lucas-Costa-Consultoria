@@ -32,11 +32,70 @@
     animation: slide 8s linear infinite;
 }
 
-.caroseul-logos {
-    transform: translate3d(-67.2927rem, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
-    transform-style: preserve-3d;
-    will-change: transform;
+// .caroseul {
+//     width: 100vw;
+//     height: 100vh;
+//     position: absolute;
+
+// }
+
+// .container {
+//     position: relative;
+//     padding: 15px;
+//     margin: 0 auto;
+// }
+
+// .portifolio-gallery-wrapper {
+//     overflow-x: auto;
+//     -ms-overflow-style: none;
+//     scrollbar-width: none;
+// }
+
+// .portifolio-gallery {
+//     display: flex;
+//     flex-flow: row nowrap;
+//     gap: 10px;
+// }
+
+.arrow-left, .arrow-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: auto;
+    bottom: 0;
+    font-size: 30px;
+    line-height: 500px;
+    width: 40px;
+    text-align: center;
+    color : #fff;
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(to left, transparent 0%, black 200%);
+    opacity: 0.2;
+    transition: all 600ms ease-in-out;
 }
+
+.arrow-right {
+    left: auto;
+    right: 0;
+    background: linear-gradient(to right, transparent 0%, black 200%);
+}
+
+.arrow-left:hover, .arrow-right:hover {
+    opacity: 1;
+}
+
+// .item {
+//     width: 720px;
+//     height: 720px;
+//     flex-shrink: 0;
+//     opacity: 0.4;
+//     transition: all 600ms ease-in-out;
+// }
+
+// .current-item {
+//     opacity: 1;
+// }
 
 .logo-inverted {
     filter: invert(1) brightness(2);
@@ -59,4 +118,14 @@
 .gradient-div {
     background-image: linear-gradient(#fda3a733, #fff);
     border-radius: 1em;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    color: #949494;
 }
