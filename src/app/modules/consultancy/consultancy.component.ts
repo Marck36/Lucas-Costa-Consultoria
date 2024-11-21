@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Breakpoints} from '@angular/cdk/layout';
 
 @Component({
   selector: 'app-consultancy',
@@ -6,6 +7,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./consultancy.component.scss']
 })
 export class ConsultancyComponent {
+
+  constructor() {
+    
+  }
 
 }
 
