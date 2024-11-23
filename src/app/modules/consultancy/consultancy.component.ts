@@ -1,15 +1,30 @@
-import { Component } from '@angular/core';
-import {Breakpoints} from '@angular/cdk/layout';
+import { Component, OnInit } from '@angular/core';
+import {BreakpointObserver, Breakpoints} from '@angular/cdk/layout';
 
 @Component({
   selector: 'app-consultancy',
   templateUrl: './consultancy.component.html',
   styleUrls: ['./consultancy.component.scss']
 })
-export class ConsultancyComponent {
+export class ConsultancyComponent implements OnInit {
 
-  constructor() {
-    
+  public isPhonePortrait: boolean = false;
+  
+  constructor(private readonly responsive: BreakpointObserver) {}
+
+  ngOnInit() {
+  
+    this.responsive.observe(Breakpoints.HandsetPortrait)
+      .subscribe(result => {
+
+        this.isPhonePortrait = false; 
+
+        if (result.matches) {
+          this.isPhonePortrait = true;
+        }
+
+      }
+    );
   }
 
 }
