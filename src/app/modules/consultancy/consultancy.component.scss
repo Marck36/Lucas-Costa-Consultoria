@@ -1,6 +1,6 @@
 
 .portfolio-tag-item {
-  background-color: #ad98ff33;
+  background-color: #9ac0ca;
   border-radius: 6px;
   text-decoration: none;
   font-weight: 600;
@@ -11,12 +11,12 @@
 
 .gradient-text {
   font-weight: bold;
-  background-image: linear-gradient(to bottom, #f0334b, #ff874b);
-  color: transparent;
+  // background-image: linear-gradient(to bottom, #274690, #a8d0db);
+  color: #274690;
   -webkit-background-clip: text;
   background-clip: text;
   line-height: 1.2;
-  font-size: 3.5rem;
+  font-size: 3.8rem;
 }
 
 @keyframes slide {
@@ -118,7 +118,7 @@
 }
 
 footer {
-  color: #949494;
+  color: #302b27;
 }
 
 .carousel-indicators {
