@@ -97,6 +97,14 @@
   }
 }
 
+.logo-uisa {
+  height: 64px;
+  width: 180px;
+  .img {
+    object-fit: cover !important;
+  }
+}
+
 .icon-medium {
   flex-direction: column;
   justify-content: center;
@@ -132,4 +140,11 @@ a, h1, h2, h3, h4, h5, h6, p {
 .tile {
   border-radius: 1em !important;
   height: 50vh;
+}
+
+.portfolio_image {
+  object-fit: cover;
+  width: 100%;
+  position: absolute;
+  inset: 0%;
 }
