@@ -1,5 +1,6 @@
 
 .portfolio-tag-item {
+  align-content: center;
   background-color: #9ac0ca;
   border-radius: 6px;
   text-decoration: none;
@@ -148,3 +149,11 @@ a, h1, h2, h3, h4, h5, h6, p {
   position: absolute;
   inset: 0%;
 }
+
+// .capitular::first-letter {
+//   float: left;
+//   font-size: 3rem; /* Ajuste o tamanho conforme necessário */
+//   font-weight: bold;
+//   line-height: 1rem;
+//   padding: 0px 0px 10px 0px !important;
+// }
