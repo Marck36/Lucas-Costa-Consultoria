@@ -1,7 +1,9 @@
-<div class="d-flex flex-column flex-root mobile" [ngClass]="{'is-phone-portrait': isPhonePortrait}">
+<div class="d-flex flex-column flex-root">
     <div class="page flex-row flex-column-fluid align-content-between">
         <app-header></app-header>
-        <app-consultancy></app-consultancy>
+
+        <app-content id="content_container"></app-content>
+
         <app-footer></app-footer>
     </div>
 </div>

@@ -33,31 +33,6 @@
   animation: slide 10s linear infinite;
 }
 
-// .caroseul {
-//     width: 100vw;
-//     height: 100vh;
-//     position: absolute;
-
-// }
-
-// .container {
-//     position: relative;
-//     padding: 15px;
-//     margin: 0 auto;
-// }
-
-// .portifolio-gallery-wrapper {
-//     overflow-x: auto;
-//     -ms-overflow-style: none;
-//     scrollbar-width: none;
-// }
-
-// .portifolio-gallery {
-//     display: flex;
-//     flex-flow: row nowrap;
-//     gap: 10px;
-// }
-
 .arrow-left, .arrow-right {
   position: absolute;
   top: 0;
@@ -149,11 +124,3 @@ a, h1, h2, h3, h4, h5, h6, p {
   position: absolute;
   inset: 0%;
 }
-
-// .capitular::first-letter {
-//   float: left;
-//   font-size: 3rem; /* Ajuste o tamanho conforme necessário */
-//   font-weight: bold;
-//   line-height: 1rem;
-//   padding: 0px 0px 10px 0px !important;
-// }
